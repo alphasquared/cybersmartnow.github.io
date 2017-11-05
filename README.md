@@ -1,2 +1,2 @@
 # cybersmartnow.github.io
-WEbsite for CyberSmart Now
+Website for CyberSmart Now
